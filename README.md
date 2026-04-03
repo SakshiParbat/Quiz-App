@@ -21,7 +21,8 @@ This app allows users to answer multiple-choice questions and get their score in
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
+<img width="1361" height="619" alt="image" src="https://github.com/user-attachments/assets/67bfc978-6f0e-4ab3-8939-a1137fdf7eac" />
+
 
 ---
 
