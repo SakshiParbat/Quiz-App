@@ -35,7 +35,7 @@ This app allows users to answer multiple-choice questions and get their score in
 ---
 
 ## 🌐 Live Demo
-(Add your deployed link here)
+https://quiz-app-aa2c8.web.app/
 
 ---
 
